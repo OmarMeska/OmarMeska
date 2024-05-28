@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="left">Hola 👋</h1>
 -🌱 I'm Omar , a Software Engineer passionate about web development and competitive programming and currently focusing on mastering ASP.NET Core MVC and Web API.<br>- 📚 I'm a CSE student at faculty of electronic engineering Menoufia University, I’m currently working on building practical projects to apply and solidify my knowledge.<br>- 📫 Connect with me On [LinkedIn](https://www.linkedin.com/in/omar-meska-2130381a6/).<br>
 
 # 💻 Tech Stack:
