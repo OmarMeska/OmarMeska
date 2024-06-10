@@ -14,4 +14,4 @@ Connect with me
 | [Leetcode](https://leetcode.com/u/Mrx30/) | My Leetcode profile |
 | [CodeForces](https://codeforces.com/profile/0x30)  | My CodeForces profile|
 | [Resume](https://drive.google.com/file/d/1Z4DXEyuIVe7gCV1FFJeDHuoHVlRIwR1l/view?usp=sharing) | my updated resume |
-| <a href="omarmeska534@gmail.com">Email</a> | my personal email |
+| <a href="mailto:omarmeska534@gmail.com">Email</a> | my personal email |
